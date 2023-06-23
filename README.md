@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+
+Meu perfil no Github esta passando por uma limpeza. Eu tinha muitos repositórios de testes, sempre aplicando algo diferente, cerca de 95% estavam incompletos, portanto, decidi começar uma limpeza por aqui!
+Então, no momento, isso aqui esta em construção, beleza? Não liga se você vier aqui e achar "mehhhhhh".
+Farei outras mudanças também, como este README mesmo!
+
+Valeu pessoa o/
 
 <!--
 **piagja/piagja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
