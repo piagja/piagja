@@ -6,16 +6,23 @@ Farei outras mudanças também, como este README mesmo!
 
 Possuo conhecimento em:
 
--- Frontend --
-React/Nextjs
-CSS, Tailwind e um pouco de SASS
-Typescript
+```
+[{
+  "frontend": {
+    "react": true,
+    "typescript": true,
+    "css": true,
+  },
 
--- Backend --
-NodeJS + Express
-Typescript
+  "backend": {
+    "nodejs": true,
+    "express": true,
+    "typescript": true
+  }
+}]
+```
 
-Valeu o/
+Valeu 😁
 
 <!--
 **piagja/piagja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
