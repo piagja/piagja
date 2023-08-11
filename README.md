@@ -4,7 +4,18 @@ Meu perfil no Github esta passando por uma limpeza. Eu tinha muitos repositório
 Então, no momento, isso aqui esta em construção, beleza? Não liga se você vier aqui e achar "mehhhhhh".
 Farei outras mudanças também, como este README mesmo!
 
-Valeu pessoa o/
+Possuo conhecimento em:
+
+-- Frontend --
+React/Nextjs
+CSS, Tailwind e um pouco de SASS
+Typescript
+
+-- Backend --
+NodeJS + Express
+Typescript
+
+Valeu o/
 
 <!--
 **piagja/piagja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
